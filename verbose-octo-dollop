@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+     <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="header">
+        <h1 class="header-name">Алексей Примадонин </h1>
+        <h3 class="header-title">Веб-разработчик</h3>
+        <p class="header-para">
+             <a href="mailto:xx@yy.zz" class="header-link">https://guides.hexlet.io/bootstrap/</a>
+             <a href="mailto:xx@yy.zz" class="header-link">https://guides.hexlet.io/bootstrap/</a>
+    </div>
+    <div id="main">
+        <p class="header-para">Bootstrap следует принципу “mobile first”: верстка изначально делается для мобильных устройств, и адаптируется при увеличении ширины экрана.
+                    Есть несколько брейкпойнтов. Это значения ширины, при которых возможно изменение стиля. Например, пример с двумя колонками выше выглядит не очень хорошо на маленьком экране мобильного телефона. Вот как можно решить это:</p>
+        </p>
+        <h3 class="main-title">Как научиться слепой печати</h3>
+        <h2 class="main-desc">Зачем?</h2>
+        <hr>
+        <ul class="main-list"> 
+            <li class="main-item">Хорошая техника позволяет сократить количество ошибок
+                </li>
+            <li class="main-item">С опытом скорость набора текста станет выше</li>
+            <li class="main-item">При необходимости достаточно легко учатся новые алфавиты</li>
+        </ul>
+        <h2 class="main-desc">Чередование</h2>
+        <hr>
+        <ul class="main-list">
+            <li class="main-item">Скорость. Быстрее QWERTY и несколько быстрее Дворака, так как в Colemak разгружены мизинцы и чаще применяется чередование рук.   </li>
+            <li class="main-item">Эргономичность. 10 наиболее распространённых букв английского языка и клавиша Backspace расположены на втором (домашнем) ряду клавиатуры</li>
+            <li class="main-item">В Colemak домашний ряд используется в среднем на 3 % чаще, чем в раскладке Дворака, и 40 % чаще, чем в QWERTY. Благодаря этому при печати на Colemak пальцам приходится меньше перемещаться, чем при печати на QWERTY</li>
+        </ul>
+        <h2 class="main-desc">Чередование</h2>
+        <hr>
+        <ul class="main-list">
+            <li class="main-item">Скорость. Быстрее QWERTY и несколько быстрее Дворака, так как в Colemak разгружены мизинцы и чаще применяется чередование рук.   </li>
+            <li class="main-item">Эргономичность. 10 наиболее распространённых букв английского языка и клавиша Backspace расположены на втором (домашнем) ряду клавиатуры</li>
+            <li class="main-item">В Colemak домашний ряд используется в среднем на 3 % чаще, чем в раскладке Дворака, и 40 % чаще, чем в QWERTY. Благодаря этому при печати на Colemak пальцам приходится меньше перемещаться, чем при печати на QWERTY</li>
+        </ul>
+    </div>
+    <div id="footer">
+        <div class="footer-title">Алексей Примадонин</div>
+        <ul class="footer-list">
+            <li class="footer-item">MARY ROE MEGASYSTEMS INC 799 E DRAGRAM SUITE 5A TUCSON AZ 85705 USA</li>
+            <li class="footer-item">+1 123456789</li>
+            <li class="footer-item">xx@yy.zz</li>
+        </ul>
+    </div>
+    
+</body>
+</html>
